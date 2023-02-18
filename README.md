@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sazzadulalambd" alt="sazzadulalambd" /></a> </p>
 
- <p align="left"> <a href= "https://www.youtube.com/@programmingwithsuas" target="blank"><img src="https://img.shields.io/twitter/follow/programmingwithsuas?logo=youtube&style=for-the-badge" alt="programmingwithsuas" /></a>
+ <p align="left"> <a href= "https://www.youtube.com/@programmingwithsuas" target="blank"><img src="https://img.shields.io/youtube/channel/programmingwithsuas?logo=youtube&style=for-the-badge" alt="programmingwithsuas" /></a>
+ 
+ <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCLMkl3eCCQkPCfRwZO9U7KA?style=social">
   
   <a href="https://www.linkedin.com/in/sazzadul-alam-shawon/" target="blank"><img src="https://img.shields.io/twitter/follow/sazzadulalambd?logo=linkedin&style=for-the-badge" alt="sazzadulalambd" /> </a>
   
