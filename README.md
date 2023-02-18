@@ -9,7 +9,7 @@
   
   <a href="https://www.linkedin.com/in/sazzadul-alam-shawon/" target="blank"><img src="https://img.shields.io/twitter/follow/sazzadulalambd?logo=linkedin&style=for-the-badge" alt="sazzadulalambd" /> </a>
   
-  <a href="https://twitter.com/sazzadulalambd" target="blank"><img src="https://img.shields.io/twitter/follow/sazzadulalambd?logo=twitter&style=for-the-badge" alt="sazzadulalambd" /></a>
+ <p align="left"> <a href="https://twitter.com/sazzadulalambd" target="blank"><img src="https://img.shields.io/twitter/follow/sazzadulalambd?logo=twitter&style=for-the-badge" alt="sazzadulalambd" /></a>
 
 </p>
 
