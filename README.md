@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **ASP.net, MVC, Django**
 
-- 📫 How to reach me **sazzad.sua@gmail.com** **sazzadulalamshawon@gmail.com**
+- 📫 How to reach me **sazzadulalamshawon@gmail.com**
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
