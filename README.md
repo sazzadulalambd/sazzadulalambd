@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sazzadulalambd" alt="sazzadulalambd" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sazzadulalambd" target="blank"><img src="https://img.shields.io/twitter/follow/sazzadulalambd?logo=twitter&style=for-the-badge" alt="sazzadulalambd" /></a>
-  <a href="https://www.linkedin.com/in/sazzadul-alam-shawon/" target="blank"><img src="https://img.shields.io/linkedin/follow/sazzadulalambd?logo=linkedin&style=for-the-badge" alt="sazzadulalambd" />
+  <a href="https://www.linkedin.com/in/sazzadul-alam-shawon/" target="blank"><img src="https://img.shields.io/linkedin/follow/sazzadulalambd?logo=linkedin&style=for-the-badge" alt="sazzadulalambd" /> </a>
 
 </p>
 
