@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **ASP.net, MVC, Django**
 
-- 📫 How to reach me **sazzad.sua@gmail.com**
+- 📫 How to reach me **sazzad.sua@gmail.com** **sazzadulalamshawon@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sazzadulalambd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sazzadulalambd" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sazzadul-alam-shawon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sazzadul-alam-shawon/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sazzadul-alam-shawon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sazzadul-alam-shawon/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19505334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19505334" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/sazzadulalamshawon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sazzadulalamshawon" height="30" width="40" /></a>
 <a href="https://fb.com/sazzadulalamshawonbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sazzadulalamshawonbd" height="30" width="40" /></a>
