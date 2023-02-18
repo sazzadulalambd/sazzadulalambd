@@ -24,10 +24,11 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sazzadulalambd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sazzadulalambd" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sazzadul-alam-shawon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sazzadul-alam-shawon/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sazzadul-alam-shawon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sazzadul-alam-shawon" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19505334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19505334" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/sazzadulalamshawon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sazzadulalamshawon" height="30" width="40" /></a>
 <a href="https://fb.com/sazzadulalamshawonbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sazzadulalamshawonbd" height="30" width="40" /></a>
@@ -46,4 +47,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sazzadulalambd&show_icons=true&locale=en" alt="sazzadulalambd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sazzadulalambd&" alt="sazzadulalambd" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sazzadulalambd&" alt="sazzadulalambd" /></p>
+
