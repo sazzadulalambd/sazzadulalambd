@@ -7,7 +7,7 @@
 
  <p align="left"> <a href= "https://www.youtube.com/@programmingwithsuas" target="blank"><img src="https://img.shields.io/youtube/channel/programmingwithsuas?logo=youtube&style=for-the-badge" alt="programmingwithsuas" /></a>
  
- <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCLMkl3eCCQkPCfRwZO9U7KA?style=social">
+ <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCLMkl3eCCQkPCfRwZO9U7KA?style=for-the-badge">
   
   <a href="https://www.linkedin.com/in/sazzadul-alam-shawon/" target="blank"><img src="https://img.shields.io/twitter/follow/sazzadulalambd?logo=linkedin&style=for-the-badge" alt="sazzadulalambd" /> </a>
   
