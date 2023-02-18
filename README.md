@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sazzadulalambd" alt="sazzadulalambd" /></a> </p>
 
  <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCLMkl3eCCQkPCfRwZO9U7KA?label=programming%20with%20SUAS">
+ <img alt="Twitter URL" src="https://img.shields.io/[twitter/url](https://www.linkedin.com/in/sazzadul-alam-shawon/)?label=Sazzadul%20Alam%20Shawon&logo=linkedin&style=social">
   
 <!--   <a href="https://www.linkedin.com/in/sazzadul-alam-shawon/" target="blank"><img src="https://img.shields.io/twitter/follow/sazzadulalambd?logo=linkedin&style=for-the-badge" alt="sazzadulalambd" /> </a>
   
