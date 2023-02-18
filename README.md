@@ -7,9 +7,9 @@
 
  <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCLMkl3eCCQkPCfRwZO9U7KA?label=programming%20with%20SUAS">
   
-  <a href="https://www.linkedin.com/in/sazzadul-alam-shawon/" target="blank"><img src="https://img.shields.io/twitter/follow/sazzadulalambd?logo=linkedin&style=for-the-badge" alt="sazzadulalambd" /> </a>
+<!--   <a href="https://www.linkedin.com/in/sazzadul-alam-shawon/" target="blank"><img src="https://img.shields.io/twitter/follow/sazzadulalambd?logo=linkedin&style=for-the-badge" alt="sazzadulalambd" /> </a>
   
-<a href="https://twitter.com/sazzadulalambd" target="blank"><img src="https://img.shields.io/twitter/follow/sazzadulalambd?logo=twitter&style=for-the-badge" alt="sazzadulalambd" /></a> </p>
+<a href="https://twitter.com/sazzadulalambd" target="blank"><img src="https://img.shields.io/twitter/follow/sazzadulalambd?logo=twitter&style=for-the-badge" alt="sazzadulalambd" /></a> </p> -->
 
 
 - 🌱 I’m currently learning **Django**
@@ -20,9 +20,9 @@
 
 - 📫 How to reach me **sazzad.sua@gmail.com** **sazzadulalamshawon@gmail.com**
 
-### Blogs posts
+<!-- ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END --> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
