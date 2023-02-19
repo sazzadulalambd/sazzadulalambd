@@ -14,9 +14,9 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on **Asset Management**
+- 👯 I’m looking to collaborate on **MERN**
 
-- 💬 Ask me about **ASP.net, MVC, Django**
+- 💬 Ask me about **C#, ASP.net, MVC, Django**
 
 - 📫 How to reach me **sazzadulalamshawon@gmail.com**
 
