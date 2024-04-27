@@ -12,11 +12,11 @@
 <a href="https://twitter.com/sazzadulalambd" target="blank"><img src="https://img.shields.io/twitter/follow/sazzadulalambd?logo=twitter&style=for-the-badge" alt="sazzadulalambd" /></a> </p> -->
 
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👯 I’m looking to collaborate on **MERN**
 
-- 💬 Ask me about **C#, ASP.net, MVC, Django**
+- 💬 Ask me about **C#, ASP.net, Java, Django**
 
 - 📫 How to reach me **sazzadulalamshawon@gmail.com**
 
