@@ -12,7 +12,7 @@
 <a href="https://twitter.com/sazzadulalambd" target="blank"><img src="https://img.shields.io/twitter/follow/sazzadulalambd?logo=twitter&style=for-the-badge" alt="sazzadulalambd" /></a> </p> -->
 
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Go**
 
 - 👯 I’m looking to collaborate on **MERN**
 
